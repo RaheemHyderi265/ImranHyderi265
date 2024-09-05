@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ImranHyderi265
+- 👋 Hi, I’m @Mohammed Abdul Raheem Hyderi
 - 👀 I’m interested in ...Python
 - 🌱 I’m currently learning ...Backend
 - 💞️ I’m looking to collaborate on ...internship
