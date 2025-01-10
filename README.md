@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mohammed Abdul Raheem Hyderi
 - 👀 I’m interested in ...Python
-- 🌱 I’m currently learning ...Backend
+- 🌱 I’m currently learning ...Backend Development
 - 💞️ I’m looking to collaborate on ...internship
 - 📫 How to reach me ...contact me on my number
 
